@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DxPMm//Xt3Vm9X14Y/pYyX/OTwqGFodozCLMxxs6J/sfKerLyG5vTmOrJBSHyxVjq8lgwgOqWPI2jIa+WyJKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Santiago\\Documents\\UTN\\Laboratorio II\\EjercicioIntegrador02\\Collazo.Santiago.2C.TPFinal\\Collazo.Santiago.2C.TPFinal\\Collazo.Santiago.2C.TPFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Santiago\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Santiago\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Santiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Santiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
